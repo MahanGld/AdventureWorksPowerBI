@@ -57,7 +57,6 @@ The dashboard was developed following best practices in Power BI and includes th
 9.  **Aesthetic Design & Theming:**
     * Applied a consistent and visually appealing color theme throughout the dashboard for improved readability and user engagement.
     * Ensured proper alignment, consistent font usage, and optimized spacing for a professional look.
-    * Implemented conditional formatting for the `Sales vs. Budget %` KPI to visually highlight performance (e.g., green for positive, red for negative).
 
 ## Getting Started
 
